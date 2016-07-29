@@ -1,2 +1,0 @@
-This is file inside folder
-2nd line from web
