@@ -1,3 +1,6 @@
 This is a dev branch 2nd file
 
+<<<<<<< HEAD
 This is the second added for CIP-5678
+=======
+>>>>>>> feature/CIP-4567
